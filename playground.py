@@ -1,4 +1,4 @@
-from phithon import *
+from phithon import *  # noqa: F403
 
 # 1. Initialization and Append
 print("1. Initialization and Append")
